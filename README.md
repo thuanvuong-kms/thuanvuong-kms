@@ -9,9 +9,9 @@ nauhtXD/nauhtXD is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://github.com/nauhtXD" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nauhtXD&theme=aura&show_icons=true" alt="nauhtxD-stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nauhtXD&show_icons=true&count_private=true&locale=en&theme=aura&layout=compact&langs_count=8" alt="nauhtxD-top-langs" />
+<a href="https://github.com/thuanvuong-kms" >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thuanvuong-kms&theme=aura&show_icons=true" alt="thuanvuong-kms-stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanvuong-kms&show_icons=true&count_private=true&locale=en&theme=aura&layout=compact&langs_count=8" alt="thuanvuong-kms-top-langs" />
 </a>
 
 <p align="center">
