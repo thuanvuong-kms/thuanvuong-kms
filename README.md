@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @thuanvuong-kms
+- 👋 Hi, I’m @thuanvuong
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Java Spring Boot
 - 📫 How to reach me:
-  * 📧 E-Mail: thuanvuong@kms-technology.com
+  * 📧 E-Mail: thuanvt090899@gmail.com
 
 <!---
 nauhtXD/nauhtXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
